@@ -1,5 +1,5 @@
-# Fake-News-Detection-Using-Machine-Learning-Project
-Fake news detection using machine learning with code documents and video tutorial
+# Live-Fake-News-Detection-Using-Machine-Learning-Project
+Live Fake news detection using machine learning with code documents and video tutorial
 
 ![Live Fake News Detection thumbnail](https://github.com/user-attachments/assets/06c11cea-27e6-4d52-902e-9605ee6a0b36)
 
